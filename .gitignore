@@ -1,0 +1,5 @@
+# Ambientes virtuais:
+ml_ENV/
+
+# Arquivo criado pelo jupiter notebook
+.ipynb_checkpoints/
