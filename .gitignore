@@ -5,4 +5,5 @@ ml_ENV/
 .ipynb_checkpoints/
 
 # Dataset
+sods.csv
 SINAN_DENGUE.csv
